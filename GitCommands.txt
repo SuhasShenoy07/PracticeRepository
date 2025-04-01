@@ -1,0 +1,11 @@
+git clone url
+
+git pull
+
+cat test.txt
+
+git status
+
+git add filename.txt // Adds the file to staging area which will be ready for commit.
+
+git commit -m "comments to be added"
