@@ -1,1 +1,2 @@
 Hello, Welcome to git tutorial. In next video, we will learn git add, commit, push commands.
+Modified in master branch to test merging.
